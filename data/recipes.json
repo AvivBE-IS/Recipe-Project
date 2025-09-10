@@ -1,0 +1,180 @@
+[
+  {
+    "id": "0f9f9e86-2a6e-4d0d-8af1-6a1b7b9d21c1",
+    "title": "Shakshuka",
+    "description": "Tomato-pepper skillet with poached eggs, classic Israeli breakfast.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, diced",
+      "1 red bell pepper, diced",
+      "3 cloves garlic, minced",
+      "1 can crushed tomatoes (400g)",
+      "1 tbsp tomato paste",
+      "1 tsp sweet paprika",
+      "1/2 tsp ground cumin",
+      "Salt and pepper",
+      "4 eggs",
+      "Fresh parsley, chopped"
+    ],
+    "instructions": [
+      "Heat oil in a skillet over medium heat; sauté onion and pepper until soft.",
+      "Add garlic; cook 30 seconds until fragrant.",
+      "Stir in tomato paste, crushed tomatoes, paprika, cumin, salt, and pepper.",
+      "Simmer 10 minutes until slightly thickened.",
+      "Make 4 wells and crack in eggs; cover and cook until whites set.",
+      "Garnish with parsley and serve warm."
+    ],
+    "cookingTime": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "rating": 4.8,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8a07c53e-4b7a-4a0b-8f0c-8a1c3f9d7c2e",
+    "title": "Classic Pancakes",
+    "description": "Fluffy, quick pancakes perfect for weekend breakfasts.",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "2 tsp baking powder",
+      "2 tbsp sugar",
+      "1/2 tsp salt",
+      "1 1/4 cups milk",
+      "1 egg",
+      "2 tbsp melted butter",
+      "1 tsp vanilla extract"
+    ],
+    "instructions": [
+      "Whisk dry ingredients in a bowl.",
+      "Whisk milk, egg, butter, and vanilla in another bowl.",
+      "Combine wet and dry; mix just until incorporated.",
+      "Cook 1/4-cup portions on a hot griddle until bubbles form; flip and finish.",
+      "Serve with maple syrup."
+    ],
+    "cookingTime": 20,
+    "servings": 4,
+    "difficulty": "easy",
+    "rating": 4.6,
+    "createdAt": "2025-02-14T12:30:00.000Z"
+  },
+  {
+    "id": "b3d8744c-9a12-45a2-90ad-23d5e1f7c8b4",
+    "title": "Chicken Stir-Fry",
+    "description": "Weeknight chicken with crisp veggies and a savory sauce.",
+    "ingredients": [
+      "400g chicken breast, thinly sliced",
+      "2 tbsp soy sauce",
+      "1 tsp cornstarch",
+      "2 cloves garlic, minced",
+      "1 tsp grated ginger",
+      "3 cups mixed vegetables (broccoli, bell pepper, carrot)",
+      "1 tbsp vegetable oil",
+      "1 tsp sesame oil",
+      "2 green onions, sliced",
+      "Cooked rice, for serving"
+    ],
+    "instructions": [
+      "Toss chicken with soy sauce and cornstarch; set aside 10 minutes.",
+      "Heat oil in a wok; stir-fry chicken until almost cooked; remove.",
+      "Stir-fry vegetables until tender-crisp.",
+      "Return chicken; add garlic, ginger, and sesame oil; toss 1–2 minutes.",
+      "Top with green onions; serve over rice."
+    ],
+    "cookingTime": 30,
+    "servings": 3,
+    "difficulty": "medium",
+    "rating": 4.4,
+    "createdAt": "2025-03-10T08:15:00.000Z"
+  },
+  {
+    "id": "c5a8b53f-3e1a-42dc-9b15-6d2f9e7a2c83",
+    "title": "Spaghetti Bolognese",
+    "description": "Rich meat sauce simmered with tomatoes and aromatics.",
+    "ingredients": [
+      "300g spaghetti",
+      "2 tbsp olive oil",
+      "1 onion, finely chopped",
+      "1 carrot, finely chopped",
+      "1 celery stalk, finely chopped",
+      "2 cloves garlic, minced",
+      "400g ground beef",
+      "2 tbsp tomato paste",
+      "1 can crushed tomatoes (400g)",
+      "1/2 cup red wine (optional)",
+      "Salt and pepper",
+      "Fresh basil, chopped"
+    ],
+    "instructions": [
+      "Cook spaghetti per package directions; reserve 1/2 cup pasta water.",
+      "Sauté onion, carrot, celery in oil until soft; add garlic.",
+      "Brown beef; drain excess fat.",
+      "Stir in tomato paste, crushed tomatoes, and wine; season.",
+      "Simmer 25–30 minutes; loosen with pasta water if needed.",
+      "Toss with spaghetti; garnish with basil."
+    ],
+    "cookingTime": 60,
+    "servings": 4,
+    "difficulty": "medium",
+    "rating": 4.7,
+    "createdAt": "2025-04-05T18:45:00.000Z"
+  },
+  {
+    "id": "d4f1a9b0-6d3e-4b1a-8c7f-2a1e5d6c8f90",
+    "title": "Vegan Buddha Bowl",
+    "description": "Colorful bowl with quinoa, roasted chickpeas, and tahini-lemon sauce.",
+    "ingredients": [
+      "1 cup quinoa, rinsed",
+      "1 can chickpeas, drained",
+      "1 tbsp olive oil",
+      "1 sweet potato, cubed",
+      "1 avocado, sliced",
+      "2 cups baby spinach",
+      "1 cup cherry tomatoes, halved",
+      "2 tbsp tahini",
+      "1 lemon (juice)",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Cook quinoa according to package.",
+      "Roast chickpeas and sweet potato with oil, salt, and pepper at 200°C for 20–25 minutes.",
+      "Whisk tahini with lemon juice and a splash of water to thin; season.",
+      "Assemble bowls: quinoa, veggies, avocado.",
+      "Drizzle tahini sauce and serve."
+    ],
+    "cookingTime": 35,
+    "servings": 2,
+    "difficulty": "easy",
+    "rating": 4.3,
+    "createdAt": "2025-05-20T10:00:00.000Z"
+  },
+  {
+    "id": "e7c2a1b4-5f6d-4e3a-9c8b-1d2e3f4a5b6c",
+    "title": "Homemade Sushi Rolls",
+    "description": "Rice-vinegar seasoned sushi rice rolled with nori and fresh fillings.",
+    "ingredients": [
+      "2 cups sushi rice",
+      "3 tbsp rice vinegar",
+      "1 tbsp sugar",
+      "1/2 tsp salt",
+      "4 nori sheets",
+      "1/2 cucumber, julienned",
+      "1 avocado, sliced",
+      "200g salmon or imitation crab",
+      "Soy sauce, for serving",
+      "Wasabi and pickled ginger (optional)"
+    ],
+    "instructions": [
+      "Cook sushi rice; season with vinegar, sugar, and salt; cool slightly.",
+      "Place nori on a mat; spread rice in a thin layer.",
+      "Arrange fillings along the edge.",
+      "Roll tightly using the mat.",
+      "Slice with a sharp wet knife.",
+      "Serve with soy sauce, wasabi, and ginger."
+    ],
+    "cookingTime": 90,
+    "servings": 4,
+    "difficulty": "hard",
+    "rating": 4.2,
+    "createdAt": "2025-06-30T21:00:00.000Z"
+  }
+]
